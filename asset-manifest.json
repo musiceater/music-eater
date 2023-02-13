@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.65376269.js",
-    "static/js/787.4c428610.chunk.js": "/static/js/787.4c428610.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.65376269.js.map": "/static/js/main.65376269.js.map",
-    "787.4c428610.chunk.js.map": "/static/js/787.4c428610.chunk.js.map"
+    "main.css": "/music-eater/static/css/main.073c9b0a.css",
+    "main.js": "/music-eater/static/js/main.12c4b461.js",
+    "static/js/787.4c428610.chunk.js": "/music-eater/static/js/787.4c428610.chunk.js",
+    "index.html": "/music-eater/index.html",
+    "main.073c9b0a.css.map": "/music-eater/static/css/main.073c9b0a.css.map",
+    "main.12c4b461.js.map": "/music-eater/static/js/main.12c4b461.js.map",
+    "787.4c428610.chunk.js.map": "/music-eater/static/js/787.4c428610.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.65376269.js"
+    "static/js/main.12c4b461.js"
   ]
 }
